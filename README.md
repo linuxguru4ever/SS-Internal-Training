@@ -1,3 +1,3 @@
-# DO101-apps
+# SS-Internal-Training
 
-Apps for the DO101 course.
+A dev-fouscused intro to Openshift app building, deployment, scaling and troubleshooting.
