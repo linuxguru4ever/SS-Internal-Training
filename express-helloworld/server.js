@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 //});
 
 app.get('/mars', function(req, res) {
-  res.send('Hello Mars! Update-App!!!\n');
+  res.send('Hello Mars! Update-App 8/29!!!\n');
 });
 
 //start the server on port 8080
