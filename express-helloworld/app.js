@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/mars', function(req, res) {
-  res.send('Hello Mars! Update-App!\n');
+  res.send('Hello Mars! Update-App! 9/11\n');
 });
 
 app.listen(8080, function () {
